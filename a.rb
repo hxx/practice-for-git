@@ -1,2 +1,2 @@
-puts "this is not abc"
-puts "this is bc"
+puts "this is not bc"
+puts "this is a"
