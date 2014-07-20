@@ -1,3 +1,3 @@
-puts "this is aaaa"
+puts "this is one"
 puts "this is a"
 puts "just a"
